@@ -1,7 +1,7 @@
 name: balloon_popup
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_balloon_pop_up
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_balloon_pop_up
 
 environment:
   sdk: ^3.8.1
